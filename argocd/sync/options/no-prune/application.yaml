@@ -9,7 +9,7 @@ spec:
   project: default
   source: 
     path: argocd/sync/options/no-prune/
-    repoURL: "https://github.com/foxutech/kubernetes.git"
+    repoURL: "https://github.com/hocvui101/kubernetes.git"
     targetRevision: HEAD
     directory:
       recurse: true
